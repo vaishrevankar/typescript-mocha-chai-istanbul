@@ -1,0 +1,19 @@
+# custom
+.idea
+.DS_Store
+.sass-cache
+BAK/*
+BAK
+node_modules/
+bower_components/
+js/.DS_Store
+tmp
+dist/
+out/
+yarn.lock
+
+#ng2
+typings/**
+jspm_packages
+link-checker-results.txt
+**/*npm-debug.log.*
