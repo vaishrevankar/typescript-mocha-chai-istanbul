@@ -24,6 +24,22 @@ typings install chai
 
 ```
 
+**Running Tests:**
+
+```
+npm test
+```
+
+**Running Coverage:**
+
+```
+npm run cover
+```
+
+**Preview Your Coverage**
+You can preview coverage by going to `root/coverage/lcov-report/index.html`
+
+
 **More Information:**
 
 **Mocha** - <https://mochajs.org/>
