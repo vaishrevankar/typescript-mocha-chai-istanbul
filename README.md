@@ -40,7 +40,7 @@ npm run cover
 ```
 
 **Preview Your Coverage**
-You can preview coverage by going to `root/coverage/lcov-report/index.html`
+You can preview coverage by going to `<ROOT>/coverage/lcov-report/index.html`
 
 
 **More Information:**
