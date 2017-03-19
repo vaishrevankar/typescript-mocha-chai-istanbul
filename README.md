@@ -47,6 +47,8 @@ You can preview coverage by going to `<ROOT>/coverage/lcov-report/index.html`
 
 **Mocha** - <https://mochajs.org/>
 
+**Chai** - <http://chaijs.com//>
+
 **Istanbul** - <https://github.com/gotwarlost/istanbul>
 
 **Typings Info** - <https://github.com/typings/typings>
