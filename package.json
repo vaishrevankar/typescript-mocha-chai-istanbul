@@ -1,5 +1,5 @@
 {
-  "name": "typescript-mocha-chai-karma-istanbul",
+  "name": "typescript-mocha-chai-istanbul",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,11 +14,9 @@
   "license": "ISC",
   "devDependencies": {
     "chai": "^3.5.0",
-    "karma": "^1.5.0",
-    "karma-chai": "^0.1.0",
-    "karma-chrome-launcher": "^2.0.0",
-    "karma-mocha": "^1.3.0",
     "mocha": "^3.2.0",
+    "require": "2.4.20",
+    "ts-node": "2.1.0",
     "typescript": "^2.2.1"
   },
   "dependencies": {

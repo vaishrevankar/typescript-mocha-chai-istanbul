@@ -1,5 +1,5 @@
 # TypeScript Starter
-### With Mocha Chai and Karma
+### With Mocha Chai and Istanbul
 
 
 **Install global testing modules.  Mocha is a testing framework, and Istanbul reports code coverage for your tests.**
@@ -24,6 +24,9 @@ typings install chai
 
 ```
 
+
+
+
 **Running Tests:**
 
 ```
@@ -47,3 +50,5 @@ You can preview coverage by going to `root/coverage/lcov-report/index.html`
 **Istanbul** - <https://github.com/gotwarlost/istanbul>
 
 **Typings Info** - <https://github.com/typings/typings>
+
+
