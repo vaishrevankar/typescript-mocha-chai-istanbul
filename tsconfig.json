@@ -1,12 +1,18 @@
 {
-    "compilerOptions": {
-        "target":  "es5",
-        "module":  "commonjs",
-        "rootDir": "src",
-        "outDir":  "out"
-    },
-    "exclude": [
-        "out",
-        "node_modules"
-    ]
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "out",
+    "types": ["reflect-metadata", "jest"],  //<--  add jest or remove completely
+    "moduleResolution": "node",
+    "sourceMap": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+      "out",
+    "node_modules"
+  ]
 }
