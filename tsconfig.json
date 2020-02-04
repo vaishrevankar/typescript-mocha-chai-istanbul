@@ -4,7 +4,7 @@
     "target": "es6",
     "module": "commonjs",
     "outDir": "out",
-    "types": ["jest", "node"],
+    //"types": ["jest", "node"],
     "moduleResolution": "node",
     "sourceMap": true
   },
