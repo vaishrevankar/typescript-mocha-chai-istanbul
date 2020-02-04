@@ -7,7 +7,7 @@
     "types": [
       "jasmine",
       "node"
-    ]
+    ],
     "moduleResolution": "node",
     "sourceMap": true
   },
