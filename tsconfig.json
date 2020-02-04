@@ -4,20 +4,11 @@
     "target": "es6",
     "module": "commonjs",
     "outDir": "out",
-    "types": [
-      "jasmine",
-      "node"
-    ],
+    "types": ["jest", "node"],
     "moduleResolution": "node",
     "sourceMap": true
   },
-    "files": [
-    "test.ts",
-    "polyfills.ts"
-  ],
   "include": [
-    "**/*.spec.ts",
-    "**/*.d.ts",
     "src/**/*.ts"
   ],
   "exclude": [
